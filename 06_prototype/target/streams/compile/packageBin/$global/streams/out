@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/06_prototype_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer/dame/design_pattern[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer/dame/design_pattern[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer/dame/design_pattern/prototype/framework[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer/dame/design_pattern/prototype/framework[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer/dame[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer/dame[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer/dame/design_pattern/prototype/framework/Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer/dame/design_pattern/prototype/framework/Product.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer/dame/design_pattern/prototype/framework/Manager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer/dame/design_pattern/prototype/framework/Manager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MessageBox.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/MessageBox.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	engineer/dame/design_pattern/prototype[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/engineer/dame/design_pattern/prototype[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UnderlinePen.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/taketoiseki/test/scala_design_pattern/06_prototype/target/scala-2.12/classes/UnderlinePen.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

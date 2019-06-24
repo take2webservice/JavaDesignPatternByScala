@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/taketoiseki/test/scala_design_pattern/06_prototype/src/main/scala/framework/Manager.scala:12:11: method createClone in trait Product cannot be accessed in engineer.dame.design_pattern.prototype.framework.Product[0m
+[0m[[0m[31merror[0m] [0m[0m Access to protected method createClone not permitted because[0m
+[0m[[0m[31merror[0m] [0m[0m enclosing class Manager in package framework is not a subclass of[0m
+[0m[[0m[31merror[0m] [0m[0m trait Product in package framework where target is defined[0m
+[0m[[0m[31merror[0m] [0m[0m        p.createClone[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

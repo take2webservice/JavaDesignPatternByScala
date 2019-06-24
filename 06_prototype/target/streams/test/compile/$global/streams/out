@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/taketoiseki/test/scala_design_pattern/06_prototype/src/test/scala/ProductSpec.scala:3:27: not found: type FlatSpec[0m
+[0m[[0m[31merror[0m] [0m[0mclass ProductSpec extends FlatSpec with DiagrammedAssertions {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/taketoiseki/test/scala_design_pattern/06_prototype/src/test/scala/ProductSpec.scala:3:41: not found: type DiagrammedAssertions[0m
+[0m[[0m[31merror[0m] [0m[0mclass ProductSpec extends FlatSpec with DiagrammedAssertions {[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/taketoiseki/test/scala_design_pattern/06_prototype/src/test/scala/ProductSpec.scala:5:26: value should is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m  "Product constructer " should "create instance" in {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/taketoiseki/test/scala_design_pattern/06_prototype/src/test/scala/ProductSpec.scala:6:21: not found: type Try[0m
+[0m[[0m[31merror[0m] [0m[0m      val emptyTry: Try[Product] = Try { new Product }[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/taketoiseki/test/scala_design_pattern/06_prototype/src/test/scala/ProductSpec.scala:6:36: not found: value Try[0m
+[0m[[0m[31merror[0m] [0m[0m      val emptyTry: Try[Product] = Try { new Product }[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
